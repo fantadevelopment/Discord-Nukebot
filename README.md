@@ -5,7 +5,6 @@ A simple discord nukebot that requires barely any setup
 
 - Should autoinstall dependencies
 - Cool logs
-- A ping command to check if the bot is running properly
 - Edgy skid ascii art
 
 ## Setup
@@ -18,5 +17,9 @@ A simple discord nukebot that requires barely any setup
 
 - `!ping` - check if the bot works
 - `!nuke` - self explanatory
+
+aftermath of the bot being in a server for like 1 min
+![image](https://github.com/user-attachments/assets/f77047e1-a807-496d-b707-71cfe34fc3ac)
+
 
 ps. this should only be used in a private server and i do not endorse using this anywhere else, i have made this only for educational purposes
