@@ -20,7 +20,7 @@ optionally customize the messages u want it to spam and channels you want it to 
 ## Commands
 
 - `!ping` - check if the bot works
-- `!nuke` - self explanatory
+- `!nuke` - doesn't exist - autonukes on server join
 
 aftermath of the bot being in a server for like 1 min
 ![image](https://github.com/user-attachments/assets/f77047e1-a807-496d-b707-71cfe34fc3ac)
