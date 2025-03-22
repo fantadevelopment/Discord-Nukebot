@@ -1,4 +1,4 @@
-# Discord-Nukebot
+# Discord Nukebot
 A simple discord nukebot that requires barely any setup
 
 ## Features
