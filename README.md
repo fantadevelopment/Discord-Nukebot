@@ -15,6 +15,7 @@ A simple discord nukebot that requires barely any setup
 1. replace `YOUR_BOT_TOKEN` with your Discord bot token
 2. run `nukebot.py`
 3. Invite the bot to your server using the generated link
+   
 optionally customize the messages u want it to spam and channels you want it to create
 
 ## Commands
