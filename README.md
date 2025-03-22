@@ -1,6 +1,9 @@
 # Discord Nukebot
 A simple discord nukebot that requires barely any setup
 
+![image](https://github.com/user-attachments/assets/615ad7c3-7deb-42dd-9b9e-b4ca5fc8b2d6)
+
+
 ## Features
 
 - should autoinstall dependencies
